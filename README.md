@@ -37,7 +37,5 @@ Full Stack and Blockchain developer with awesome web technical skills, hefty pro
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
+Here is my [eMail](mailto:billdevmaster@gmail.com?Subject=Hello%20Billdevmaster!) , [Skype](https://join.skype.com/invite/uYtjgaRnb7A2) and [Telegram](https://t.me/billdevmaster).
